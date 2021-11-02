@@ -8,29 +8,29 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/thorv/Documents/prof taak 1/SleepWell_arduino/Sleepwell_Arduino/include",
-                "C:/Users/thorv/Documents/prof taak 1/SleepWell_arduino/Sleepwell_Arduino/src",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/cores/arduino",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/variants/standard",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "D:/Documents/HBO/Proftaak/Sleepwell/SleepWell_arduino/Sleepwell_Arduino/include",
+                "D:/Documents/HBO/Proftaak/Sleepwell/SleepWell_arduino/Sleepwell_Arduino/src",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/thorv/Documents/prof taak 1/SleepWell_arduino/Sleepwell_Arduino/include",
-                    "C:/Users/thorv/Documents/prof taak 1/SleepWell_arduino/Sleepwell_Arduino/src",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/cores/arduino",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/variants/standard",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "C:/Users/thorv/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "D:/Documents/HBO/Proftaak/Sleepwell/SleepWell_arduino/Sleepwell_Arduino/include",
+                    "D:/Documents/HBO/Proftaak/Sleepwell/SleepWell_arduino/Sleepwell_Arduino/src",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/jaibr/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
@@ -45,7 +45,7 @@
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
-            "compilerPath": "C:/Users/thorv/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerPath": "C:/Users/jaibr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
             "compilerArgs": [
                 "-mmcu=atmega328p",
                 ""
